@@ -1,0 +1,2 @@
+# Keep compiled Windows executables out of the source repository.
+*.exe
