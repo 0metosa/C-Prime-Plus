@@ -1,2 +1,7 @@
 # Keep compiled Windows executables out of the source repository.
 *.exe
+
+# Local tools and editor/agent configuration.
+/mingw64/
+/.vscode/
+/.agents/
